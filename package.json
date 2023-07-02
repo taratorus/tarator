@@ -1,0 +1,11 @@
+{
+  "name": "tarator",
+  "version": "1.0.0",
+  "description": "n/a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taratorus",
+  "license": "ISC"
+}
